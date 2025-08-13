@@ -1,0 +1,22 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Personal config or schedule files
+*.json
+*.ini
